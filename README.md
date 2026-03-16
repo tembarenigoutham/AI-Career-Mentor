@@ -24,5 +24,3 @@ An AI-powered web application that analyzes resumes, extracts technical skills, 
 - Streamlit
 - Pandas
 - PyPDF2
-
-## 📁 Project Structure
